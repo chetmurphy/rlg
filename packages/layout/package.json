@@ -1,0 +1,27 @@
+{
+  "name": "@neq1/layout",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chetmurphy <rlg@neq1.io>",
+  "homepage": "https://github.com/chetmurphy/rlg#readme",
+  "license": "ISC",
+  "main": "lib/layout.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetmurphy/rlg.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/chetmurphy/rlg/issues"
+  }
+}
