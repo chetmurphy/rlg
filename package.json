@@ -1,12 +1,14 @@
 {
   "name": "root",
-  "private": false,
+  "private": true,
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
   },
   "devDependencies": {
     "@types/node": "^11.13.5",
+    "bili": "^4.7.3",
     "lerna": "^3.13.3",
+    "rollup-plugin-typescript2": "^0.20.1",
     "typescript": "^3.4.4"
   }
 }
